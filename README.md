@@ -14,4 +14,6 @@ Use some tools that can provide authorization and authentication capabilities to
 
 So all of these steps can be clubbed into a workflow to run automatically using some workflow manager like Apache Airflow and Oozie (this is not recommended).
 
+## Monitoring
 
+A way to monitor the failures and point of break, using tools like Prometheus and Grafana.
